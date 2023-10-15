@@ -1,0 +1,51 @@
+hr {
+    background-color: green;
+    width: 100%;
+    height:3px; }
+
+    p1 {
+        text-align: center;
+        color: red;
+        }
+    p2 {
+        text-align: center;
+        color: blueviolet;
+        }
+    p3 {
+        text-align: center;
+        color: blueviolet;
+        }
+    p4 {
+        text-align: center;
+        color: blueviolet;
+        }
+
+    p5 {
+        text-align: center;
+        color: blue;
+        }
+        p6 {
+            text-align: center;
+            color: purple;
+            }
+            p7 {
+                text-align: center;
+                color: peru;
+                }
+.photo { border: 2px; }
+#para1 {
+    text-align: center;
+    color: red;
+    }
+    #para2 {
+        text-align: center;
+        color: brown;
+        }
+        #para3 {
+            text-align: center;
+            color: rgb(160, 23, 23);
+            }
+            #para4 {
+                text-align: center;
+                color: rgb(29, 45, 126);
+                }
